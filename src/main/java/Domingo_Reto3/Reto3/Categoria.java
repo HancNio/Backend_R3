@@ -40,7 +40,7 @@ public class Categoria implements Serializable {
     public void setName(String name) {
         this.name = name;
     }
-
+    
     public String getDescription() {
         return description;
     }
